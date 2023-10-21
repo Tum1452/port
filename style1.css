@@ -1,0 +1,56 @@
+body {
+  font-family: "KRR AengAei", sans-serif;
+  font-size: 45px; 
+  margin: 0;
+  background-image: url('F:/งานวาด/แฟ้มงานวาด/R23.png'); 
+  background-size: cover; 
+  backdrop-filter: blur(10px); 
+  background-color: rgba(168, 142, 86, 0.5); 
+  padding: 30px 0;
+  max-width: 100%;
+  color: #a58d4c;
+}
+
+
+header {
+    
+  background-color: #4e1515;
+  font-size: 60px; 
+  color: #fff;
+  padding: 1rem;
+  text-align: center;
+}
+
+main {
+  padding: 2rem;
+}
+
+section {
+  margin-bottom: 2rem;
+}
+
+h1{
+    font-size: 100px;   
+}
+
+h2 {
+            font-family: "KRR AengAei", sans-serif;
+            font-size: 60px;
+  color: #b69b6a;
+}
+
+p {
+  font-size: 45px;
+}
+
+#portrait {
+    background-color: #ffffff;
+    padding: 20px 0;
+    max-width: 50%;
+    border-radius: 25%;
+}
+
+#portrait img {
+  max-width: 50%;
+}
+
